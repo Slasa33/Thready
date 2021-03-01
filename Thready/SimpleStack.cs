@@ -2,7 +2,7 @@
     using System;
     using System.Collections.Generic;
     
-    namespace Thready
+    namespace Thready2
 {
         public class SimpleStack<T>
         {
